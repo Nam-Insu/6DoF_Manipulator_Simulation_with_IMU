@@ -1,0 +1,2 @@
+e2box_imu_9dofv4:jacobian:ros_msg:urdf_test:vrep_franka_tutorial
+-DCATKIN_DEVEL_PREFIX=/home/nam/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/nam/catkin_ws/install -G Unix Makefiles
